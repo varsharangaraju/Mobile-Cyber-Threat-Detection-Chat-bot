@@ -48,3 +48,10 @@ Axios: Promise-based HTTP client for making requests.
 Bootstrap: Front-end framework for responsive design.
 
 Hugging Face API: NLP model inference for chatbot functionality.
+
+
+
+Screenshots
+
+![WhatsApp Image 2025-03-22 at 13 24 27_c3b0a889](https://github.com/user-attachments/assets/507f0adb-a3d8-48bc-9886-7c8e221896f5)
+
